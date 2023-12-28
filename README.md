@@ -17,14 +17,14 @@ This is a web-based food ordering system developed using PHP and MySQL. The syst
 1. Clone the repository:
    ```bash
    git clone https://github.com/yogapriya-star/FoodOrderingSystem.git
-   ``
+   
 2. Configure the database connection in config.php:
    ```bash
    $host = "localhost";
    $username = "your_username";
    $password = "your_password";
    $database = "your_database_name";
-   ``
+   
 
 ## Features
 
@@ -45,7 +45,7 @@ This is a web-based food ordering system developed using PHP and MySQL. The syst
 
  ```bash
    http://localhost/folder-name/admin/login.php
-``
+
 
 ## Contributing
 Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
