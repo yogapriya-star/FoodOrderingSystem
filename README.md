@@ -45,6 +45,7 @@ This is a web-based food ordering system developed using PHP and MySQL. The syst
 
  ```bash
    http://localhost/folder-name/admin/login.php
+```
 
 
 ## Contributing
